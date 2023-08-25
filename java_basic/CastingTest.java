@@ -1,3 +1,5 @@
+package java_basic;
+
 public class CastingTest {
     public static void main(String[] args) {
         int a = 9;

@@ -1,3 +1,5 @@
+package java_basic;
+
 import java.util.Scanner;
 
 public class SwitchTest {

@@ -1,3 +1,5 @@
+package java_basic;
+
 public class StringsTest {
     public static void main(String[] args) {
         String question = "Sabay Dee Mai?";
